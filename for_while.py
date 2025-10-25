@@ -23,7 +23,3 @@ if consulta in mililitros:
         print(f"No hay stock disponible de {consulta} ml.")
 else:
     print("Esa presentación no está disponible.")
-while True:
-      control= imput("quieres salir?")
-    if control = imput "si":
-        break

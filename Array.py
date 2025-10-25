@@ -22,7 +22,7 @@ x = fruits.index("cherry")
 
 print(x)
 
-#El remove()método elimina la primera aparición 
+#El remove() método elimina la primera aparición 
 #del elemento con el valor especificado.
 
 
